@@ -1,0 +1,5 @@
+,Estimate,Std. Error,t value, Pr(>|t|)
+(Intercept),0.0209,0.06419,0.326,0.74509
+Company Points Density,0.32252,0.10911,2.956,0.00356
+Health Facilities Points Density,0.59169,0.10126,5.843,2.57E-08
+Catering Facilities Points Density,-0.20618,0.10395,-1.983,0.04893
